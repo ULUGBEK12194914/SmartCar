@@ -1,2 +1,2 @@
-# SmartCar
-VIP project: Smart car using Raspberry Pi car, object detection, line tracking...
+# VIP
+VIP_team_project (smart car)
